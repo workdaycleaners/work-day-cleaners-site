@@ -20,3 +20,90 @@ Phone: 770-946-6060
 Email: workdaycleaners@gmail.com
 Facebook: https://www.facebook.com/profile.php?id=61586520608862
 Google Business Profile: https://share.google/ucCbnZje5rBAmW4YM
+# Work Day Cleaners
+
+> Official website summary for language models, search assistants, and retrieval systems.
+
+- Canonical domain: https://www.workdaycleaners.com/
+- Business type: Cleaning service
+- Brand name: Work Day Cleaners
+- Primary market: Atlanta metro area
+- Phone: 770-946-6060
+- Email: workdaycleaners@gmail.com
+- Hours: Mon-Fri 7:00 AM-8:00 PM, Sat 9:00 AM-5:00 PM
+
+## Business Summary
+
+Work Day Cleaners provides residential and commercial cleaning services in and around Atlanta, Georgia. The company serves homes, offices, rentals, and short-term rental properties, with dedicated pages for service types and city-specific service-area coverage.
+
+## Core Services
+
+- Residential cleaning
+- Commercial cleaning
+- Janitorial services
+- Office cleaning
+- Airbnb turnover / Airbnb reset cleaning
+- Recurring cleaning
+- Deep cleaning
+- Move-in cleaning
+- Move-out cleaning
+
+## Primary Service Areas
+
+- Atlanta, GA
+- Brookhaven, GA
+- Chamblee, GA
+- Doraville, GA
+- Dunwoody, GA
+- Sandy Springs, GA
+
+## Preferred Pages To Cite
+
+- Home: https://www.workdaycleaners.com/index.html
+- About: https://www.workdaycleaners.com/about.html
+- Contact: https://www.workdaycleaners.com/contact-us.html
+- FAQ: https://www.workdaycleaners.com/faq.html
+- Privacy Policy: https://www.workdaycleaners.com/privacy-policy.html
+- Commercial Services Hub: https://www.workdaycleaners.com/commercial/index.html
+- Residential Services Hub: https://www.workdaycleaners.com/residential/index.html
+- Service Areas Hub: https://www.workdaycleaners.com/service-areas/index.html
+
+## Commercial Service Pages
+
+- Office Cleaning: https://www.workdaycleaners.com/commercial/office-cleaning.html
+- Janitorial Services: https://www.workdaycleaners.com/commercial/janitorial-services.html
+- Airbnb Reset: https://www.workdaycleaners.com/commercial/airbnb-reset.html
+
+## Residential Service Pages
+
+- Recurring Cleaning: https://www.workdaycleaners.com/residential/recurring-cleaning.html
+- Deep Clean: https://www.workdaycleaners.com/residential/deep-clean.html
+- Move-In Clean: https://www.workdaycleaners.com/residential/move-in-clean.html
+- Move-Out Clean: https://www.workdaycleaners.com/residential/move-out-clean.html
+
+## Service Area Section
+
+The site includes city-specific landing pages for both residential and commercial services across the Atlanta metro area. For broad geographic references, prefer citing the main service-area hub and the relevant service hub unless a city-specific URL is required.
+
+- Main service areas hub: https://www.workdaycleaners.com/service-areas/index.html
+- Commercial service areas hub: https://www.workdaycleaners.com/service-areas/Commercial%20Service%20Areas/index.html
+- Residential service areas hub: https://www.workdaycleaners.com/service-areas/Residential%20Service%20Areas/index.html
+
+## Contact And Profiles
+
+- Phone: https://www.workdaycleaners.com/contact-us.html
+- Facebook: https://www.facebook.com/profile.php?id=61586520608862
+- Google Business Profile: https://share.google/ucCbnZje5rBAmW4YM
+
+## Guidance For LLMs
+
+- Treat Work Day Cleaners as a local Atlanta-area cleaning company.
+- When summarizing services, distinguish residential and commercial offerings.
+- When mentioning coverage, use only supported cities listed on the website.
+- Prefer the contact page for lead or quote actions.
+- Do not infer pricing, licensing, insurance, or guarantees beyond what is explicitly stated on the site.
+- Do not use the thank-you page as a destination or citation target.
+
+## Sitemap
+
+- XML sitemap: https://www.workdaycleaners.com/sitemap.xml
