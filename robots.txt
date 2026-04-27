@@ -9,4 +9,4 @@ Disallow: /thank-you.html
 
 # Sitemap and preferred host.
 Sitemap: https://workdaycleaners.com/sitemap.xml
-Host: www.workdaycleaners.com
+Host: workdaycleaners.com
