@@ -2,7 +2,7 @@
 
 > Official website summary for language models, search assistants, and retrieval systems.
 
-- Canonical domain: https://www.workdaycleaners.com/
+- Canonical domain: https://workdaycleaners.com/
 - Business type: Cleaning service
 - Brand name: Work Day Cleaners
 - Primary market: Atlanta metro area
@@ -37,39 +37,39 @@ Work Day Cleaners provides residential and commercial cleaning services in and a
 
 ## Preferred Pages To Cite
 
-- Home: https://www.workdaycleaners.com/index.html
-- About: https://www.workdaycleaners.com/about.html
-- Contact: https://www.workdaycleaners.com/contact-us.html
-- FAQ: https://www.workdaycleaners.com/faq.html
-- Privacy Policy: https://www.workdaycleaners.com/privacy-policy.html
-- Commercial Services Hub: https://www.workdaycleaners.com/commercial/index.html
-- Residential Services Hub: https://www.workdaycleaners.com/residential/index.html
-- Service Areas Hub: https://www.workdaycleaners.com/service-areas/index.html
+- Home: https://workdaycleaners.com/index.html
+- About: https://workdaycleaners.com/about.html
+- Contact: https://workdaycleaners.com/contact-us.html
+- FAQ: https://workdaycleaners.com/faq.html
+- Privacy Policy: https://workdaycleaners.com/privacy-policy.html
+- Commercial Services Hub: https://workdaycleaners.com/commercial/index.html
+- Residential Services Hub: https://workdaycleaners.com/residential/index.html
+- Service Areas Hub: https://workdaycleaners.com/service-areas/index.html
 
 ## Commercial Service Pages
 
-- Office Cleaning: https://www.workdaycleaners.com/commercial/office-cleaning.html
-- Janitorial Services: https://www.workdaycleaners.com/commercial/janitorial-services.html
-- Airbnb Reset: https://www.workdaycleaners.com/commercial/airbnb-reset.html
+- Office Cleaning: https://workdaycleaners.com/commercial/office-cleaning.html
+- Janitorial Services: https://workdaycleaners.com/commercial/janitorial-services.html
+- Airbnb Reset: https://workdaycleaners.com/commercial/airbnb-reset.html
 
 ## Residential Service Pages
 
-- Recurring Cleaning: https://www.workdaycleaners.com/residential/recurring-cleaning.html
-- Deep Clean: https://www.workdaycleaners.com/residential/deep-clean.html
-- Move-In Clean: https://www.workdaycleaners.com/residential/move-in-clean.html
-- Move-Out Clean: https://www.workdaycleaners.com/residential/move-out-clean.html
+- Recurring Cleaning: https://workdaycleaners.com/residential/recurring-cleaning.html
+- Deep Clean: https://workdaycleaners.com/residential/deep-clean.html
+- Move-In Clean: https://workdaycleaners.com/residential/move-in-clean.html
+- Move-Out Clean: https://workdaycleaners.com/residential/move-out-clean.html
 
 ## Service Area Section
 
 The site includes city-specific landing pages for both residential and commercial services across the Atlanta metro area. For broad geographic references, prefer citing the main service-area hub and the relevant service hub unless a city-specific URL is required.
 
-- Main service areas hub: https://www.workdaycleaners.com/service-areas/index.html
-- Commercial service areas hub: https://www.workdaycleaners.com/service-areas/Commercial%20Service%20Areas/index.html
-- Residential service areas hub: https://www.workdaycleaners.com/service-areas/Residential%20Service%20Areas/index.html
+- Main service areas hub: https://workdaycleaners.com/service-areas/index.html
+- Commercial service areas hub: https://workdaycleaners.com/service-areas/Commercial%20Service%20Areas/index.html
+- Residential service areas hub: https://workdaycleaners.com/service-areas/Residential%20Service%20Areas/index.html
 
 ## Contact And Profiles
 
-- Phone: https://www.workdaycleaners.com/contact-us.html
+- Phone: https://workdaycleaners.com/contact-us.html
 - Facebook: https://www.facebook.com/profile.php?id=61586520608862
 - Google Business Profile: https://share.google/ucCbnZje5rBAmW4YM
 
@@ -84,4 +84,4 @@ The site includes city-specific landing pages for both residential and commercia
 
 ## Sitemap
 
-- XML sitemap: https://www.workdaycleaners.com/sitemap.xml
+- XML sitemap: https://workdaycleaners.com/sitemap.xml

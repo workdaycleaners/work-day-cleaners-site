@@ -1,4 +1,4 @@
-# robots.txt for https://www.workdaycleaners.com/
+# robots.txt for https://workdaycleaners.com/
 # Keep core pages, CSS, JS, and images crawlable.
 
 User-agent: *
@@ -8,5 +8,5 @@ Allow: /
 Disallow: /thank-you.html
 
 # Sitemap and preferred host.
-Sitemap: https://www.workdaycleaners.com/sitemap.xml
+Sitemap: https://workdaycleaners.com/sitemap.xml
 Host: www.workdaycleaners.com
