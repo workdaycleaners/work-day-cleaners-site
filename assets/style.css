@@ -1309,8 +1309,9 @@ footer p {
   }
 
   .brand-logo {
-    height: 40px;
-    width: auto;
+    width: min(100%, 220px);
+    height: auto;
+    max-height: 72px;
   }
 
   .btn {
