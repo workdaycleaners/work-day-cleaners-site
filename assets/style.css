@@ -936,6 +936,83 @@ main > section:not(.hero) {
     #ffffff;
 }
 
+.contact-page {
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(24px, 4vw, 56px);
+  align-items: start;
+  margin-top: 20px;
+}
+
+.contact-page .contact-copy {
+  text-align: left;
+}
+
+.contact-page .contact-copy .eyebrow {
+  width: 100%;
+  margin-bottom: 14px;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+}
+
+.contact-page .contact-copy h1 {
+  max-width: 13ch;
+  margin-bottom: 14px;
+  font-size: clamp(2rem, 3.4vw, 3.3rem);
+  line-height: 1.04;
+}
+
+.contact-page .contact-copy p:last-child {
+  max-width: 36ch;
+}
+
+.contact-page .contact-right {
+  min-width: 0;
+}
+
+.contact-page .trust-bar {
+  justify-content: center;
+  align-items: center;
+  gap: 12px 14px;
+  margin-top: 16px;
+}
+
+.contact-page .trust-bar span {
+  justify-content: center;
+  min-height: 40px;
+  padding: 8px 16px;
+  text-align: center;
+}
+
+.contact-actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+.contact-actions .btn {
+  width: min(100%, 280px);
+}
+
+.contact-action-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 12px;
+  color: var(--brand);
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.contact-action-link:hover,
+.contact-action-link:focus-visible {
+  color: var(--brand-dark);
+}
+
 .contact-copy h2 {
   margin-bottom: 14px;
 }
@@ -948,6 +1025,54 @@ main > section:not(.hero) {
 .booking-form {
   display: grid;
   gap: 12px;
+}
+
+.home-booking-form {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 16px;
+}
+
+.home-booking-form .form-field {
+  display: grid;
+  align-content: start;
+  gap: 7px;
+  min-width: 0;
+}
+
+.home-booking-form .form-field-wide,
+.home-booking-form > .form-status,
+.home-booking-form > .btn {
+  grid-column: 1 / -1;
+}
+
+.home-booking-form > .btn {
+  width: 100%;
+}
+
+.contact-page-form {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 16px;
+}
+
+.contact-page-form .form-field {
+  display: grid;
+  align-content: start;
+  gap: 7px;
+  min-width: 0;
+}
+
+.contact-page-form .form-field-wide,
+.contact-page-form > .form-status,
+.contact-page-form > .btn {
+  grid-column: 1 / -1;
+}
+
+.contact-page-form > .btn {
+  width: 100%;
+}
+
+.contact-page-form textarea {
+  min-height: 96px;
 }
 
 .booking-form label {
@@ -1111,6 +1236,22 @@ footer p {
 
   .contact {
     padding: 26px;
+  }
+
+  .contact-page {
+    gap: 22px;
+  }
+
+  .contact-page .contact-copy h1 {
+    max-width: none;
+  }
+
+  .contact-page-form {
+    grid-template-columns: 1fr;
+  }
+
+  .home-booking-form {
+    grid-template-columns: 1fr;
   }
 
   .contact-copy {
@@ -1279,6 +1420,48 @@ footer p {
     padding-bottom: 10px;
   }
 
+  .site-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .header-topbar {
+    grid-template-columns: minmax(0, 1fr) auto;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .google-review-widget {
+    display: none;
+  }
+
+  .brand {
+    grid-column: 1;
+    justify-self: start;
+  }
+
+  .brand-logo {
+    width: 132px;
+    max-height: 48px;
+  }
+
+  .header-cta {
+    grid-column: 2;
+    justify-self: end;
+    width: auto;
+    min-height: 44px;
+    padding: 0 12px;
+    font-size: 0.9rem;
+  }
+
+  .header-row {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 100%;
+    justify-content: flex-end;
+  }
+
   .hero-copy,
   .hero-card,
   .contact,
@@ -1286,6 +1469,65 @@ footer p {
   .about p,
   .why-list {
     padding: 18px;
+  }
+
+  .contact-page .contact-copy {
+    text-align: left;
+  }
+
+  .contact-page-body .site-header {
+    flex-direction: column;
+    align-items: stretch;
+    position: sticky;
+  }
+
+  .contact-page-body .header-topbar {
+    grid-template-columns: minmax(0, 1fr) auto;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .contact-page-body .google-review-widget {
+    display: none;
+  }
+
+  .contact-page-body .brand {
+    justify-self: start;
+  }
+
+  .contact-page-body .brand-logo {
+    width: 132px;
+    max-height: 48px;
+  }
+
+  .contact-page-body .header-cta {
+    width: auto;
+    grid-column: 2;
+    justify-self: end;
+    min-height: 44px;
+    padding: 0 12px;
+    font-size: 0.9rem;
+  }
+
+  .contact-page-body .header-row {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 100%;
+    justify-content: flex-end;
+  }
+
+  .contact-page-form {
+    gap: 9px;
+  }
+
+  .contact-page-form input,
+  .contact-page-form select {
+    min-height: 46px;
+  }
+
+  .contact-page-form textarea {
+    min-height: 88px;
   }
 
   .why-list {

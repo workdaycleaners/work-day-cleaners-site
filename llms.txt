@@ -1,12 +1,12 @@
-# Work Day Cleaners
+﻿# Work Day Cleaners
 
 > Official website summary for language models, search assistants, and retrieval systems.
 
 - Canonical domain: https://www.workdaycleaners.com/
 - Business type: Cleaning service
 - Brand name: Work Day Cleaners
-- Primary market: Atlanta metro area
-- Phone: 770-946-6060
+- Primary market: North Atlanta Metro area
+- Phone: 470-253-1972
 - Email: workdaycleaners@gmail.com
 - Hours: Mon-Fri 7:00 AM-8:00 PM, Sat 9:00 AM-5:00 PM
 
@@ -61,7 +61,7 @@ Work Day Cleaners provides residential and commercial cleaning services in and a
 
 ## Service Area Section
 
-The site includes city-specific landing pages for both residential and commercial services across the Atlanta metro area. For broad geographic references, prefer citing the main service-area hub and the relevant service hub unless a city-specific URL is required.
+The site includes city-specific landing pages for both residential and commercial services across the North Atlanta Metro area. For broad geographic references, prefer citing the main service-area hub and the relevant service hub unless a city-specific URL is required.
 
 - Main service areas hub: https://www.workdaycleaners.com/service-areas/index.html
 - Commercial service areas hub: https://www.workdaycleaners.com/service-areas/Commercial%20Service%20Areas/index.html
@@ -79,7 +79,7 @@ The site includes city-specific landing pages for both residential and commercia
 - When summarizing services, distinguish residential and commercial offerings.
 - When mentioning coverage, use only supported cities listed on the website.
 - Prefer the contact page for lead or quote actions.
-- Do not infer pricing, licensing, insurance, or guarantees beyond what is explicitly stated on the site.
+- Do not infer pricing, credentials, or guarantees beyond what is explicitly stated on the site.
 - Do not use the thank-you page as a destination or citation target.
 
 ## Sitemap

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 
 <html lang="en">
 
@@ -22,17 +22,17 @@
     <link rel="icon" type="image/png" href="/assets/logo.png" />
     <link rel="apple-touch-icon" href="/assets/logo.png" />
 
-<meta name="description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 770-946-6060 or request a free quote online." />
+<meta name="description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 470-253-1972 or request a free quote online." />
 
     <link rel="canonical" href="https://www.workdaycleaners.com/contact-us.html" />
     <meta property="og:title" content="Contact  Work Day Cleaners" />
-    <meta property="og:description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 770-946-6060 or request a free quote online." />
+    <meta property="og:description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 470-253-1972 or request a free quote online." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.workdaycleaners.com/contact.html" />
     <meta property="og:image" content="https://www.workdaycleaners.com/assets/house.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Contact  Work Day Cleaners" />
-    <meta name="twitter:description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 770-946-6060 or request a free quote online." />
+    <meta name="twitter:description" content="Contact Work Day Cleaners for residential and commercial cleaning in Atlanta and nearby areas. Call 470-253-1972 or request a free quote online." />
     <meta name="twitter:image" content="https://www.workdaycleaners.com/assets/house.jpg" />
 
     <title>Contact Work Day Cleaners | Get a Free Quote</title>
@@ -71,7 +71,7 @@
           <img src="assets/logo.png" alt="Work Day Cleaners logo" class="brand-logo" />
         </a>
 
-        <a href="contact-us.html" class="btn btn-primary header-cta">Request a Free Quote</a>
+        <a href="tel:4702531972" class="btn btn-primary header-cta">Call Now</a>
       </div>
 
       <nav class="page-links-bar" aria-label="Quick links to all pages">
@@ -162,111 +162,68 @@
 
     <main>
 
-      <section class="about">
-
-        <div class="section-heading">
-
-          <p class="eyebrow">Contact</p>
-
-          <h1>Reach out for a fast quote or a service plan.</h1>
-
-        </div>
-
-        <div class="about-grid">
-
-          <p>
-
-            Need regular home cleaning, rental turnover, or commercial support?
-
-            Send us a few details and we will help you schedule the right service.
-
-          </p>
-
-          <p>
-
-            Prefer to talk directly? Call us at <a href="tel:7709466060">(770) 946-6060</a>
-
-            anytime during business hours.
-
-          </p>
-
-        
-          <img src="assets/house.jpg" alt="Professional cleaning service in Atlanta" class="section-image" width="680" height="340" loading="lazy" decoding="async" />
-        </div>
-
-      </section>
-
-
-
-      <section class="contact">
+      <section class="contact contact-page">
 
         <div class="contact-copy">
 
-          <p class="eyebrow">Get your free quote</p>
+          <p class="eyebrow">Contact Us</p>
 
-          <h2>Have a question or want to book a cleaning? Tell us how we can help.</h2>
-
-          <p>
-
-            Tell us what you need, and we will respond with availability and next steps.
-
-          </p>
+          <h1>Reach out for a fast quote today!</h1>
 
         </div>
 
 
 
         <div class="contact-right">
-
-
-
-        <div class="trust-bar"><span>&#10003; Bonded &amp; Insured</span><span>&#10003; Same-day response</span><span>&#10003; Satisfaction Guaranteed</span><span>&#10003; Local Atlanta team</span></div>
-          <form class="booking-form" action="https://formsubmit.co/workdaycleaners@gmail.com" method="POST">
+          <form class="booking-form contact-page-form" action="https://formsubmit.co/workdaycleaners@gmail.com" method="POST">
           <input type="hidden" name="_next" value="https://www.workdaycleaners.com/thank-you.html">
 
+          <div class="form-field">
           <label for="name">Name</label>
 
-          <input id="name" name="name" type="text" placeholder="Your name" required />
+          <input id="name" name="name" type="text" placeholder="Your name" minlength="2" maxlength="80" autocomplete="name" required />
+          </div>
 
 
 
+          <div class="form-field">
           <label for="email">Email</label>
 
-          <input id="email" name="email" type="email" placeholder="you@example.com" required />
+          <input id="email" name="email" type="email" placeholder="you@example.com" maxlength="120" autocomplete="email" required />
+          </div>
 
 
 
+          <div class="form-field">
           <label for="phone">Phone</label>
 
-          <input id="phone" name="phone" type="tel" placeholder="(770) 946-6060" required />
+          <input id="phone" name="phone" type="tel" placeholder="(470) 253-1972" inputmode="tel" autocomplete="tel" pattern="[0-9+()\-\s]{10,20}" minlength="10" maxlength="20" required />
+          </div>
 
 
 
           
-          <label for="preferred-date">Preferred date</label>
+          <div class="form-field">
+          <label for="preferred-date">Preferred service date (optional)</label>
           <input id="preferred-date" name="preferred_date" type="date" />
+          </div>
 
-          <label for="preferred-time-window">Preferred time window</label>
-          <select id="preferred-time-window" name="preferred_time_window">
-            <option>7:00 AM - 9:00 AM</option>
-            <option>9:00 AM - 12:00 PM</option>
-            <option>12:00 PM - 3:00 PM</option>
-            <option>3:00 PM - 5:00 PM</option>
-            <option>5:00 PM - 8:00 PM</option>
-            <option>Flexible</option>
-          </select>
-
-
-
+          <div class="form-field form-field-wide">
           <label for="message">Message</label>
 
-          <textarea id="message" name="message" placeholder="Any special instructions..." rows="5"></textarea>
+          <textarea id="message" name="message" placeholder="Any special instructions..." rows="3" maxlength="1200"></textarea>
+          </div>
 
 
 
           <button type="submit" class="btn btn-primary">Request a Call Back</button>
 
         </form>
+          <div class="trust-bar"><span>&#10003; Same-day response</span><span>&#10003; Satisfaction Guaranteed</span><span>&#10003; Local Atlanta team</span></div>
+          <p>
+            Prefer to speak with someone directly? Call us at <a href="tel:4702531972">(470) 253-1972</a>
+            anytime during business hours.
+          </p>
         </div>
 
       </section>
